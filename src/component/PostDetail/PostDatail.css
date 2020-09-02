@@ -1,0 +1,95 @@
+.left{
+    padding-left: 5%;
+}
+
+.right{
+    padding-left: 5%;
+}
+
+.postimg{
+    box-shadow: 5px 5px 5px 5px rgba(182, 182, 182, 0.75);
+height: 50px;
+padding-left: 10px;
+padding-top: 10px;
+/* margin-bottom: 0; */
+}
+
+ .img12{
+    width: auto;
+    margin: auto;
+    border: 1px solid #e5e5ee;
+    height: auto;
+    padding-bottom: 2%;
+   box-shadow:  5px 5px 5px rgba(182, 182, 182, 0.75);
+
+}
+.imgDetail{
+    margin-left: 6%;
+    margin-top: 2%;
+
+}
+
+.detail{
+    height: auto;
+    padding-bottom: 5%;
+    margin-top: 5%;
+    box-shadow:  5px 5px 5px rgba(182, 182, 182, 0.75);
+}
+
+.Description{
+    height: auto;
+    padding-bottom: 5%;
+    margin-top: 5%;
+    box-shadow:  5px 5px 5px rgba(182, 182, 182, 0.75);
+}
+
+.topInfo{
+    height: auto;
+    padding-bottom: 5%;
+    margin-top: 5%;
+    box-shadow:   5px 5px 5px rgba(182, 182, 182, 0.75);
+
+}
+
+.seller{
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #002f34;
+    font-weight: 400;
+    padding: 0;
+}
+
+.seller23 {
+    background-position: 50%;
+    background-size: cover;
+    border-radius: 50%;
+    margin: 0;
+    position: relative;
+    overflow: hidden;
+}
+
+.map1{
+    margin-top: 5%;
+}
+
+
+
+.rui-2ns2W .rui-2vHTl {
+    padding: 20px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgba(0,47,52,.36);
+}
+
+._3pMvg ._2r-Wm>div {
+    padding-top: 16px;
+}
+.product_see{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    margin-top: 6% !important;
+}
